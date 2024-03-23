@@ -21,9 +21,11 @@
 - It returns the matching documents to the terminal interface for display.
 
 ### HLD
-
+```
 Start --->  DocumentProcessor   -----> SearchEngine <----> search(query) <----> terminal / result
             processDocuments             
             tokenize                    
             buildInvertedIndex                 
             getInvertedIndex  
+```
+
