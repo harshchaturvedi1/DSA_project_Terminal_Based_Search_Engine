@@ -1,4 +1,4 @@
-# TTerminal-Based Search Engine for Large Documents
+# Terminal-Based Search Engine for Large Documents
 
 
 ## Reasons for choosing this project
